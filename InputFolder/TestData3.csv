@@ -1,0 +1,8 @@
+﻿ID ,Name,Email,Phone,Status,Misc Data
+9090,Micah,111Bob@Fakemail.com,111.222.3333,Active,
+8080,Scott,222Tim@Fakemail.com,8887779999,Lapsed,
+7070,Tanner,777Milo@Fakemail.com,6665553333,Active,TRUE
+2020,Phil,444Sam@Fakemail.com,5554443333,Lapsed,
+1111,Mike,999Tido@Fakemail.com,,Unknown,FALSE
+1212,Dawn,666Lewis@Fakemail.com,555.666.7777,Active,TRUE
+1313,Jon,1010Todd@Fakemail.com,,Active,

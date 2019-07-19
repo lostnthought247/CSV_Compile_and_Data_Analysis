@@ -1,0 +1,8 @@
+﻿ID ,Name,Email,Phone,Status
+111,Bob,111Bob@Fakemail.com,111.222.3333,Active
+222,Tim,222Tim@Fakemail.com,8887779999,Lapsed
+777,Milo,777Milo@Fakemail.com,6665553333,Active
+444,Sam,444Sam@Fakemail.com,5554443333,Lapsed
+999,Tido,999Tido@Fakemail.com,,Unknown
+666,Lewis,666Lewis@Fakemail.com,555.666.7777,Active
+1010,Todd,1010Todd@Fakemail.com,,Active
